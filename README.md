@@ -1,6 +1,6 @@
 # GajiGaji
 
-![GajiGaji Banner](https://https://github.com/cjs2016/user-attachments/blob/main/landing.gif)
+![GajiGaji Banner](https://github.com/cjs2016/user-attachments/blob/main/landing.gif)
 
 ## 프로젝트 개요
 
